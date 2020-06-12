@@ -1,5 +1,5 @@
 # ImgRecognitionOrBnKw
-Image recognition Orange Banene Kiwi
+Image recognition Orange Banene Kiwi. Training is done with TensorFlow 
 
 The data Should be placed into the folder "Klassen". This folder is not included within Github as it is too big.
 
